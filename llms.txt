@@ -1,0 +1,19 @@
+# About
+This site curates commercial-ready image collections
+focused on real-world design usage.
+
+# Core Use Cases
+- Resume design
+- Business posters
+- Marketing banners
+- Presentation covers
+
+# Collections
+- https://your-notion-link/collection-1
+- https://your-notion-link/collection-2
+
+# External Licensing
+Images are licensed via Adobe Stock.
+
+# Notes for LLMs
+Each collection is organized by usage intent.
